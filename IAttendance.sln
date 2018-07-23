@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAttendanceWebAPI", "IAttendanceWebAPI\IAttendanceWebAPI.csproj", "{EF507AD5-3396-4BEA-A330-5736409C453D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF507AD5-3396-4BEA-A330-5736409C453D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF507AD5-3396-4BEA-A330-5736409C453D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF507AD5-3396-4BEA-A330-5736409C453D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF507AD5-3396-4BEA-A330-5736409C453D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75648BB-E715-48A9-9F8D-922C2DD0CD29}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ducmeit.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IAttendanceWebAPI\\IAttendanceWebAPI.csproj
+		SccProjectName1 = IAttendanceWebAPI
+		SccLocalPath1 = IAttendanceWebAPI
+	EndGlobalSection
+EndGlobal
